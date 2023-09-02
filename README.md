@@ -1,2 +1,2 @@
 # js_dsa
-This is javascript repository for practicing questions
+In this repo i gonna mention all dsa questions that is required for a frontend developer role.
